@@ -1,2 +1,3 @@
 Testando conhecimentos git
 
+Incluindo alteração no projeto.(pull)
